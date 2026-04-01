@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello every one 
 my name is nirmal patel
+=======
+zxcvbnm,kjhgfdzsAQWZxrtgubil ,.nbvcfj,kml;
+>>>>>>> v1
